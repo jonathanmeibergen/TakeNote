@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeNote", "TakeNote\TakeNote.csproj", "{87893208-2413-46AD-9751-9CB1BE3057A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeNote.Models", "TakeNote.Models\TakeNote.Models.csproj", "{81F835FE-B5F9-4A7E-A22E-A6E55BA60397}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87893208-2413-46AD-9751-9CB1BE3057A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87893208-2413-46AD-9751-9CB1BE3057A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87893208-2413-46AD-9751-9CB1BE3057A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87893208-2413-46AD-9751-9CB1BE3057A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81F835FE-B5F9-4A7E-A22E-A6E55BA60397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81F835FE-B5F9-4A7E-A22E-A6E55BA60397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81F835FE-B5F9-4A7E-A22E-A6E55BA60397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81F835FE-B5F9-4A7E-A22E-A6E55BA60397}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAC153BB-ED3A-45B9-A6AC-5C220FD3A6B7}
+	EndGlobalSection
+EndGlobal
